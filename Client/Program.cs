@@ -25,6 +25,7 @@ namespace Client
 
             //create 'serverListener thread'
 
+
             //'userListener' loop
         }
 
